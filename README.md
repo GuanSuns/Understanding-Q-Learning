@@ -7,3 +7,9 @@
     - Noise or Stochasticity (in rewards and/or environment)
 - **Implementation**
     - Double Q-Learning
+
+
+## The Sparse Reward / Reward Function Design Problem in RL
+- **Papers**
+    - Andrychowicz, Marcin, et al. "Hindsight experience replay." Advances in Neural Information Processing Systems. 2017.
+    - Ding, Yiming, et al. "Goal-conditioned imitation learning." Advances in Neural Information Processing Systems. 2019.
