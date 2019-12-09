@@ -18,12 +18,12 @@
     - Ding, Yiming, et al. "Goal-conditioned imitation learning." Advances in Neural Information Processing Systems. 2019.
     
     
-    ## The Slow-Start Problem
-    
-    - **Techniques**
-        - Initialize parameters by imitation learning and proceed by Q-Filtering (allow outperform human expert)
-    
-    - **Papers**
-        - Hester, Todd, et al. "Deep q-learning from demonstrations." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
+## The Slow-Start Problem
+- **Techniques**
+    - Initialize parameters by imitation learning and proceed by Q-Filtering (allow outperform human expert)
+
+- **Papers**
+    - Hester, Todd, et al. "Deep q-learning from demonstrations." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
 
 
+## Hard Exploartion Problem
