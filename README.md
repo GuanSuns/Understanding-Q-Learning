@@ -35,6 +35,8 @@
 - **Benefit of Leanring Value Distribution**
 	- Expected value might vastly overestimate due to some events with high rewards that happen less frequently. 
 	- Though the expected future rewards of 2 actions are identical, their variances might be very different.
+    - Leading to a much faster and more stable learning of the agent.
+    - People can get more insights and knowledge of the agent by inspecting the learned distributions.
 - **Papers**
     - Bellemare, Marc G., Will Dabney, and Rémi Munos. "A distributional perspective on reinforcement learning." arXiv preprint arXiv:1707.06887 (2017).
     - Blog: https://flyyufelix.github.io/2017/10/24/distributional-bellman.html
